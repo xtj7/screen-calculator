@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #fff;
+  border-left: 10px solid #999;
+  margin: 0;
+  padding: 20px;
+
+  font-family: Arial;
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+table {
+  border: 1px solid #ccc;
+  background: #eee;
+
+  td {
+    padding: 5px;
+  }
+}
+
+input, select, button {
+  outline: none;
+}
+
+button {
+  border: 0;
+  border-bottom: 4px solid #333;
+  background: #777;
+  color: #fff;
+  font-weight: bold;
+  padding: 5px 20px;
+  font-size: 12px;
+}
