@@ -1,6 +1,6 @@
 require.config({
     paths: {
-        'angular': 'node_modules/angular/angular'
+        'angular': 'node_modules/angular/angular.min'
     },
     shim: {
         'angular': {exports: 'angular'}
